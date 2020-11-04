@@ -1,0 +1,12 @@
+{
+  "name": "misha-react-itcraft",
+  "displayName": "misha-react-itcraft",
+  "expo": {
+    "name": "misha-react-itcraft",
+    "slug": "misha-react-itcraft",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
