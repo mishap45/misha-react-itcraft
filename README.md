@@ -16,4 +16,4 @@ SCREENS
 ![alt text](./assets/GitHub_README_img/secondScreen.jpg)
 
 Url on expo project: 
-https://exp.host/@milov/mishaITCraftTestApp/index.exp?sdkVersion=39.0.0``
+https://exp.host/@milov/mishaITCraftTestApp/index.exp?sdkVersion=39.0.0
