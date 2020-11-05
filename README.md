@@ -11,6 +11,7 @@ Click download the .zip file. Extract the contents of the zip file, then open yo
 - npm start
 
 SCREENS
+
 ![alt text](./assets/GitHub_README_img/firstScreen.jpg)
 ![alt text](./assets/GitHub_README_img/secondScreen.jpg)
 
